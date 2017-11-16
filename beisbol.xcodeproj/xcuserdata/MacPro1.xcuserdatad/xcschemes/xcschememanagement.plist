@@ -7,12 +7,22 @@
 		<key>beisbol.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>48E27AAE1FBD2C130073ADDB</key>
+		<key>A1C8D67B1FAF9BA800A2E21F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1C8D6961FAF9BA800A2E21F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1C8D6A11FAF9BA800A2E21F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
